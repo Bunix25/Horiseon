@@ -7,7 +7,7 @@ Horiseon will place your business in a **high ranking**, where you will make a p
 
  ![Homepage](assets/images/website-homepage.png)
  _____________________________________________________________________
- Visit the site! [Horiseon](https://anniavd.github.io/Horiseon/)
+ Visit the site! [Horiseon](https://bunix25.github.io/Horiseon/#social-media-marketing)
 
 ____________________________
 ### The web site has  3 shortcuts
@@ -22,11 +22,11 @@ ____________________________
  ______________________________________________________________
 #### To access the navigation information respectively, select one of the following links.
 
-To access:[Search Engine Optimization](https://anniavd.github.io/Horiseon/#search-engine-optimization)
+To access:[Search Engine Optimization](https://bunix25.github.io/Horiseon/#social-media-marketing/#search-engine-optimization)
 
-To access:[Online Reputation Management](https://anniavd.github.io/Horiseon/#online-reputation-management)
+To access:[Online Reputation Management](https://bunix25.github.io/Horiseon/#social-media-marketing/#online-reputation-management)
 
-To access:[Social Media Marketing](https://anniavd.github.io/Horiseon/#social-media-marketing)
+To access:[Social Media Marketing](https://bunix25.github.io/Horiseon/#social-media-marketing/#social-media-marketing)
 
 
 The selected lik information will be shown as it appears in the image below.
@@ -41,4 +41,4 @@ ________________________________________________________________________________
 >
 ![3 image symbols with their corresponding information](assets/images/website-other-information.png)
 
-For more information **visit** the site clicking here:[Horiseon](https://anniavd.github.io/Horiseon/)
+For more information **visit** the site clicking here:[Horiseon](https://bunix25.github.io/Horiseon/#social-media-marketing)
