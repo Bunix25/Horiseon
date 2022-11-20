@@ -47,7 +47,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* style p is general for  all body*/
 p {
     font-size: 16px;
 }
@@ -200,3 +200,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* footer style end*/
