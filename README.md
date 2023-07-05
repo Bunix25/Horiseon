@@ -35,9 +35,7 @@ The selected lik information will be shown as it appears in the image below.
 
 __________________________________________________________________________________
 ### The site shows other information such as:
-> - Lead Generation.
-> - Brand Awareness.
-> - Cost Management.
+
 >
 ![3 image symbols with their corresponding information](assets/images/website-other-information.png)
 
